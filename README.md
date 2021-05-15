@@ -1,8 +1,10 @@
 # API-Rest-_Consulta-de-City_Brasil
 
 
+![re1](https://user-images.githubusercontent.com/66983974/118377766-b96b9980-b5a5-11eb-9add-67309141b893.jpg)
 
 
+![re2](https://user-images.githubusercontent.com/66983974/118377775-ce482d00-b5a5-11eb-8efa-0767d5c6d16b.jpg)
 
 
 
